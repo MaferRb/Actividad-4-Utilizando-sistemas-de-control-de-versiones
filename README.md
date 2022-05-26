@@ -9,9 +9,9 @@ Esta aplicación consiste en un CRUD de vehículos, empleando la arquitectura Mo
 <!-- Sección María Fernanda Rivas Barrera -->
 ### Historias de usuario.
 > — María Fernanda Rivas Barrera
-![img-historias de usuario.png](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EWNDGSUEijdLlGsn6_6wXXYBj0kuDxaWvetJYUsqJBwHUg?e=kHdXCO)
+![img-historias de usuario](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EWNDGSUEijdLlGsn6_6wXXYBj0kuDxaWvetJYUsqJBwHUg?e=kHdXCO)
 
-![img-historias de usuario2.png](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ebo2cUvLTq9GpbZYzlOn0msB9TjFlQ7w2GjGDUAjjfYA4w?e=ytGHn7)
+![img-historias de usuario2](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ebo2cUvLTq9GpbZYzlOn0msB9TjFlQ7w2GjGDUAjjfYA4w?e=ytGHn7)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
@@ -20,10 +20,10 @@ Esta aplicación consiste en un CRUD de vehículos, empleando la arquitectura Mo
 ### Implementación de las historias de usuario.
 Se creó una base de datos de nombre mvc que contiene las siguientes tablas:
 > — María Fernanda Rivas Barrera
-![img-base de datos.png](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ec1q8sXJhxRFlJueROlZlNsBywfGrxhy8RKEwz5MScI5hw?e=BrbJKF)
+![img-base de datos](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ec1q8sXJhxRFlJueROlZlNsBywfGrxhy8RKEwz5MScI5hw?e=BrbJKF)
 
 ### Salida en el navegador:
-![img-salida navegador.png](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ETjVy_ZrcgZKiCkHuLOFzHYBp1oItSgb8kyAB6K6bcQFBA?e=kAmoT0)
+![img-salida navegador](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ETjVy_ZrcgZKiCkHuLOFzHYBp1oItSgb8kyAB6K6bcQFBA?e=kAmoT0)
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
