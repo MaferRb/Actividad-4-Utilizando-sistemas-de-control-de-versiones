@@ -20,7 +20,7 @@ Esta aplicación consiste en un CRUD de vehículos, empleando la arquitectura Mo
 ### Implementación de las historias de usuario.
 Se creó una base de datos de nombre mvc que contiene las siguientes tablas:
 > — María Fernanda Rivas Barrera
-![img-base de datos](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ec1q8sXJhxRFlJueROlZlNsBywfGrxhy8RKEwz5MScI5hw?e=BrbJKF)
+![img-base de datos](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/base%20de%20datos.png)
 
 ### Salida en el navegador:
 ![img-salida navegador](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ETjVy_ZrcgZKiCkHuLOFzHYBp1oItSgb8kyAB6K6bcQFBA?e=kAmoT0)
