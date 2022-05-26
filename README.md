@@ -9,7 +9,7 @@ Esta aplicación consiste en un CRUD de vehículos, empleando la arquitectura Mo
 <!-- Sección María Fernanda Rivas Barrera -->
 ### Historias de usuario.
 > — María Fernanda Rivas Barrera
-![img-historias de usuario](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/historias%20de%20usuario.png)
+![img-historias de usuario](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/d674c37283fcdf5ae347e271f308ed1463c746ab/assets/img/historia%20de%20usuario.png)
 
 ![img-historias de usuario2](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/historia%20de%20usuario2.png)
 
