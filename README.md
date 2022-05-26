@@ -9,9 +9,9 @@ Esta aplicación consiste en un CRUD de vehículos, empleando la arquitectura Mo
 <!-- Sección María Fernanda Rivas Barrera -->
 ### Historias de usuario.
 > — María Fernanda Rivas Barrera
-![img-historias de usuario](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EWNDGSUEijdLlGsn6_6wXXYBj0kuDxaWvetJYUsqJBwHUg?e=kHdXCO)
+![img-historias de usuario](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/historias%20de%20usuario.png)
 
-![img-historias de usuario2](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/Ebo2cUvLTq9GpbZYzlOn0msB9TjFlQ7w2GjGDUAjjfYA4w?e=ytGHn7)
+![img-historias de usuario2](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/historia%20de%20usuario2.png)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
@@ -23,7 +23,7 @@ Se creó una base de datos de nombre mvc que contiene las siguientes tablas:
 ![img-base de datos](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/base%20de%20datos.png)
 
 ### Salida en el navegador:
-![img-salida navegador](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ETjVy_ZrcgZKiCkHuLOFzHYBp1oItSgb8kyAB6K6bcQFBA?e=kAmoT0)
+![img-salida navegador](https://raw.githubusercontent.com/MaferRb/Actividad-4-Utilizando-sistemas-de-control-de-versiones/main/assets/img/salida%20navegador.png)
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
